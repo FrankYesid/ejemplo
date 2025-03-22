@@ -6,8 +6,10 @@ __pycache__/
 
 # Entorno virtual
 venv/
+.venv/
 env/
 *.env
+
 
 # Configuración del IDE
 .vscode/
